@@ -11,6 +11,7 @@ For more information, please see http://docs.akeneo.com/
 
 | CustomEntityBundle   | Akeneo PIM Community Edition |
 |:--------------------:|:----------------------------:|
+| v5.0.*               | v5.0.*                       |
 | v4.0.*               | v4.0.*                       |
 | v3.0.*               | v3.0.*                       |
 | v2.4.*               | v2.3.*                       |
@@ -24,7 +25,7 @@ For more information, please see http://docs.akeneo.com/
 You can install this bundle with composer (see requirements section):
 
 ```bash
-    php composer.phar require "akeneo-labs/custom-entity-bundle":"4.0.*"
+    php composer.phar require "akeneo-labs/custom-entity-bundle":"5.0.*"
 ```
 
 Then add the following lines **at the end** of your config/routes/routes.yml :
@@ -53,7 +54,7 @@ If your installation is already set up, you have to run the following command in
 ## Documentation
 
 The reference data documentation can be found in the 
-[PIM documentation](https://docs.akeneo.com/4.0/manipulate_pim_data/catalog_structure/creating_a_reference_data.html).
+[PIM documentation](https://docs.akeneo.com/5.0/manipulate_pim_data/catalog_structure/creating_a_reference_data.html).
 
 Detailled information can be found in the [bundle documentation](docs/index.md).
 
